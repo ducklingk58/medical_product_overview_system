@@ -1,0 +1,17 @@
+streamlit>=1.28
+ollama>=0.1.7
+python-docx>=0.8.11
+pdfplumber>=0.9
+pydantic>=2.0.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+sentence-transformers>=2.2.0
+numpy>=1.24
+scipy>=1.10
+python-multipart>=0.0.6
+streamlit-option-menu>=0.3.6
+streamlit-pdf-viewer>=0.0.26
+plotly>=5.15.0
+matplotlib>=3.7.0
+requests>=2.31.0
+reportlab>=4.0.0 
